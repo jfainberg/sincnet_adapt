@@ -1,4 +1,5 @@
 # Raw waveform adaptation with SincNet
+[![arXiv](https://img.shields.io/badge/arXiv-1909.13759-b31b1b.svg)](https://arxiv.org/abs/1909.13759)
 
 This repository contains code for our ASRU 2019 paper titled ["Acoustic model adaptation from raw waveforms with SincNet"](http://arxiv.org/abs/1909.13759). The aim is to explore the adaptation of the SincNet layer (filter parameters and amplitudes) to speakers and domains.
 
